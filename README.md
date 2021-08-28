@@ -9,10 +9,17 @@ ___
 
 ___
 
-HTML form input: [https://anshori.github.io/html-form-spreadsheet-leafletjs/index.html](https://anshori.github.io/html-form-spreadsheet-leafletjs/index.html)   
-Spreadsheet: [https://docs.google.com/spreadsheets/d/1L5h8g84pbLW-hK6EF_eTACK5oH-t-KuW002nPTWOakk/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1L5h8g84pbLW-hK6EF_eTACK5oH-t-KuW002nPTWOakk/edit?usp=sharing)   
-GeoJSON Data API: [https://script.google.com/macros/s/AKfycbx4P_IkP_X3Ama9MxwIGfLWI0pmEjsWl6Pf3hH1v0ROHmZcXBGyryTLu1-mmFXXUfE/exec](https://script.google.com/macros/s/AKfycbx4P_IkP_X3Ama9MxwIGfLWI0pmEjsWl6Pf3hH1v0ROHmZcXBGyryTLu1-mmFXXUfE/exec)   
-Peta Lokasi Objek: [https://anshori.github.io/html-form-spreadsheet-leafletjs/map/](https://anshori.github.io/html-form-spreadsheet-leafletjs/map/)    
+HTML form input:   
+[https://anshori.github.io/html-form-spreadsheet-leafletjs/index.html](https://anshori.github.io/html-form-spreadsheet-leafletjs/index.html)   
+
+Spreadsheet:   
+[https://docs.google.com/spreadsheets/d/1L5h8g84pbLW-hK6EF_eTACK5oH-t-KuW002nPTWOakk/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1L5h8g84pbLW-hK6EF_eTACK5oH-t-KuW002nPTWOakk/edit?usp=sharing)   
+
+GeoJSON Data API:    
+[https://script.google.com/macros/s/AKfycbx4P_IkP_X3Ama9MxwIGfLWI0pmEjsWl6Pf3hH1v0ROHmZcXBGyryTLu1-mmFXXUfE/exec](https://script.google.com/macros/s/AKfycbx4P_IkP_X3Ama9MxwIGfLWI0pmEjsWl6Pf3hH1v0ROHmZcXBGyryTLu1-mmFXXUfE/exec)   
+
+Peta Lokasi Objek:   
+[https://anshori.github.io/html-form-spreadsheet-leafletjs/map/](https://anshori.github.io/html-form-spreadsheet-leafletjs/map/)    
 
 ___
 
