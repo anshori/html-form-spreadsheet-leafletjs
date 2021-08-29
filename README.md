@@ -10,7 +10,7 @@ ___
 ___
 
 HTML form input:   
-[https://anshori.github.io/html-form-spreadsheet-leafletjs/index.html](https://anshori.github.io/html-form-spreadsheet-leafletjs/index.html)   
+[https://anshori.github.io/html-form-spreadsheet-leafletjs/](https://anshori.github.io/html-form-spreadsheet-leafletjs/)   
 
 Spreadsheet:   
 [https://docs.google.com/spreadsheets/d/1L5h8g84pbLW-hK6EF_eTACK5oH-t-KuW002nPTWOakk/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1L5h8g84pbLW-hK6EF_eTACK5oH-t-KuW002nPTWOakk/edit?usp=sharing)   
